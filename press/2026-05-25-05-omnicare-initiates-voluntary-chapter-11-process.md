@@ -1,7 +1,9 @@
 ---
 title: Omnicare Initiates Voluntary Chapter 11 Process
 url: https://www.prnewswire.com/news-releases/omnicare-initiates-voluntary-chapter-11-process-302563245.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Omnicare" press release artificial intelligence'
 position: 5
 source: serpapi-google
