@@ -33,9 +33,11 @@ tags:
   - Pharmacy
   - Senior Living
 created: '2026-03-21'
-modified: '2026-04-28'
+modified: '2026-10-06'
 apis: []
 common:
+  - url: https://www.omnicare.com/feed/
+    type: BlogRSS
   - type: DomainSecurity
     url: security/omnicare-domain-security.yml
   - type: LinkedIn
